@@ -5,7 +5,7 @@
         <item>
             <title>Version 1.0.1+37</title>
             <description>New Version is Available</description>
-            <sparkle:version>1.15.0</sparkle:version>
+            <sparkle:version>1.0.2</sparkle:version>
             <pubDate>Fri, 23 Dec 2022 18:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=id.co.orderfaz" sparkle:os="android" />
         </item>
