@@ -3,9 +3,9 @@
     <channel>
         <title>Update Now</title>
         <item>
-            <title>Version 1.2.9</title>
+            <title>Version 1.2.10</title>
             <description>New Version is Available</description>
-            <sparkle:version>1.2.9</sparkle:version>
+            <sparkle:version>1.2.10</sparkle:version>
             <pubDate>Thu, 4 Jan 2024 00:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=id.co.orderfaz" sparkle:os="android" />
         </item>
